@@ -1,1 +1,7 @@
+To Generate tsconfig.json
+---------------------------
+tsc --init 
+
+To compile ts files to JS files in watch mode
+---------------------------------------------
 tsc -p ./src -w 
